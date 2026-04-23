@@ -1,0 +1,4 @@
+cat >> .gitignore << 'EOF'
+*.pcap
+logs/s1.log
+EOF
